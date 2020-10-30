@@ -5,9 +5,8 @@
 
 <br>
 
-<div align="center">
 <h3>💻 Full-Stack Developer | 🌏 Mumbai, India </h3>
-</div>
+
 
 ### About Me
 
