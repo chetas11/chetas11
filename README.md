@@ -13,7 +13,7 @@
 - 🔭 I’m currently working in Infosys
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about Front-end
-- 📫 How to reach me: cbirmole@gmail.com / https://www.linkedin.com/in/chetan-b-5aa977b1/
+- 📫 How to reach me: cbirmole@gmail.com 
 - ⚡ Fun fact: love creating websites
 
 
@@ -28,7 +28,8 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetas11&label=Profile%20views&color=129e00&style=plastic" alt="" /></p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<br>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chetan-b-5aa977b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
